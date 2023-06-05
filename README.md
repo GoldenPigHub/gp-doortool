@@ -1,6 +1,9 @@
 # gp-doortool
 Simple standalone door tool, for viewing doorId and other info
 
-## [PREVIEW](https://streamable.com/99dshj)
+# FEATURES
+> STANDALONE
+> TURN ON/OFF DETAILS
+> MINIMALISTIC SCRIPT
 
-#STANDALONE
+# [PREVIEW](https://streamable.com/99dshj)
